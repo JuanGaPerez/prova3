@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: rgba(51, 51, 51, 0.7); 
+    color: #fff;
+    padding: 20px;
+    text-align: center; 
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto; 
+    display: inline-block; 
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px; 
+    margin: 0 auto; 
+    color: #fff;
+    
+}
+
+.background {
+        background-image: url('https://static.wixstatic.com/media/87b4fe_b96c3c195ef84fb992f979fc1bd23ad5~mv2.gif');
+        background-size: cover;
+        background-position: center;
+        height: 50vh;
+    }
+    .centered-text {
+        text-align: center;
+    }
+    
